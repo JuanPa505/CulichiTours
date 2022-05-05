@@ -1,5 +1,27 @@
 {
   "dependencies": {
     "firebase": "^9.7.0"
-  }
+  },
+  "name": "culichitours",
+  "version": "1.0.0",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanPa505/CulichiTours.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanPa505/CulichiTours/issues"
+  },
+  "homepage": "https://github.com/JuanPa505/CulichiTours#readme",
+  "keywords": [],
+  "description": ""
 }
